@@ -1,6 +1,8 @@
 # 2.7 IO 事件多路复用仿真
 
 > 数据结构与算法课程设计 · 第 8–18 周
+> <img width="902" height="305" alt="image" src="https://github.com/user-attachments/assets/0e83d5e6-1309-443f-958a-18aedc66d2f6" />
+
 
 用 C 从零搭一个离散事件仿真器，复现“一个执行流同时等待多个 I/O 源”这件事；在同一套语义下替换几种数据结构，比较延迟分布、公平性与过载行为。
 
